@@ -1,0 +1,9 @@
+# Node modules (no se deben subir nunca)
+node_modules/
+
+# Build de Vite (se genera con npm run build)
+dist/
+
+# Archivos del sistema (innecesarios)
+.DS_Store
+.env
